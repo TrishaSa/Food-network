@@ -1,0 +1,102 @@
+
+body{
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+	
+h1{
+	font-size: 60px;
+	font-weight: bold;
+	margin: 0;
+}
+h2{
+	font-size: 50px;
+	font-weight: bold;
+	margin-top: 120px;
+}
+h3{
+	font-size: 30px;
+	font-weight: bold;
+}
+.ornge{
+	color: orange;
+}
+.para
+{
+	margin-top: 200px;
+}
+.for-two-container{
+	display: flex;
+}
+.half-div{
+	width: 50%;
+	padding-left:5%;
+	margin-left: 5%;
+	text-align: justify;
+}
+.half-div img{
+	width: 100%;
+	margin-top: 80px;
+}
+.half-div p{
+	margin-bottom: 80px;
+	font-size: 20px;
+}
+.button-link{
+	text-decoration: none;
+	border: 1px solid;
+	background-image:linear-gradient(orange,red);
+	color: white;
+	padding: 20px 30px;
+	border-radius: 50px;
+}
+.about{
+	background-image: url('images/shapes/7.png');
+}
+.recipe-para{
+	text-align: center;
+}
+.recipe-item{
+	box-shadow: 10px 10px 40px gray;
+	width: 22%;
+	height: 450px;
+	padding: 1%;
+	border-radius: 30px;
+	color: black;
+	margin: 2% 0;
+}
+.recipe-item img{
+	width: 100%;
+}
+#recipe1{
+	margin-left: 10%;
+}
+#recipe2{
+	margin-left: 4%;
+	margin-right: 4%;
+}
+#recipe3{
+	margin-right: 10%;
+}
+.section-form{
+	text-align: center;
+}
+.contact-form{
+	width: 60%;
+	margin: 0 auto;
+}
+
+input,select,
+textarea{
+	width: 50%;
+	padding: 7px;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+footer{
+	text-align: center;
+
+}
