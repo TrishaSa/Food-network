@@ -81,6 +81,7 @@ h3{
 }
 .section-form{
 	text-align: center;
+	margin-bottom: 2%;
 }
 .contact-form{
 	width: 60%;
@@ -98,5 +99,7 @@ textarea{
 }
 footer{
 	text-align: center;
-
+	background-color: black;
+	color: burlywood;
+	padding: 2%;
 }
