@@ -97,6 +97,22 @@ textarea{
 	margin-bottom: 10px;
 	margin-left: 20px;
 }
+.follow{
+	 display: flex;
+	 box-shadow: 10px 10px 40px gray;
+	 margin: 8% 8%;
+	 border-radius: 20px;
+	 height: 250px;
+	 
+}
+.follow1{
+	margin:0 auto;
+}
+
+.follow1 h2{
+	margin-bottom: 0;
+}	
+
 footer{
 	text-align: center;
 	background-color: black;
